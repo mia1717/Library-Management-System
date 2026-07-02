@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-java-8.0.30 (2)">
+    <archive path="D:/闲鱼上传项目文件夹/项目/【ID0005】书店图书销售进货管理系统（前端①）/项目源码/BookManager/lib/mysql-connector-java-8.0.30.jar" />
+  </library>
+  <library name="mysql-connector-java-5.0.8-bin" />
+</eclipse-userlibraries>
+
